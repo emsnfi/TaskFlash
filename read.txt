@@ -1,0 +1,2 @@
+Flash structure
+Application: task view
